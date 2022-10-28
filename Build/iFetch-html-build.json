@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Avatar",
+"productVersion": "0.1",
+"dataUrl": "iFetch-html-build.data.unityweb",
+"wasmCodeUrl": "iFetch-html-build.wasm.code.unityweb",
+"wasmFrameworkUrl": "iFetch-html-build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.26f1"
+}
